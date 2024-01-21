@@ -1,6 +1,6 @@
 <table  align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td colspan=8 align="center">
+    <td colspan=12 align="center">
       <h1> Kavinda Deshan </h1>
       <h3> Software Engineer Intern | BSc (UG) </h3>
       <p>
@@ -9,7 +9,7 @@
         <a href="https://medium.com/@tkdeshan1103" target="blank"><img align="center" src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/medium.png" alt="medium" height="30" width="40" /></a>
       </p>
     </td>
-    <td  colspan=4 align=center><img src="https://github.com/tkdeshan/tkdeshan/blob/main/profile.png" style="height:130px;"></td>
+   
   </tr>
   <tr>
     <td colspan=12 align="justify">
