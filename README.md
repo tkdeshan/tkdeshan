@@ -2,7 +2,7 @@
   <tr>
     <td colspan=12 align="center">
       <h1> Kavinda Deshan </h1>
-      <h3> Software Engineer Intern | BSc (UG) </h3>
+      <h3> Software Engineer Intern | MERN Stack | AWS | Tech Enthusiastic </h3>
       <p>
         <a href="https://linkedin.com/in/kavinda-deshan-265304214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavinda-deshan-265304214" height="30" width="40" /></a>
         <a href="https://fb.com/kavinda.deshan.334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavinda.deshan.334" height="30" width="40" /></a>
@@ -14,13 +14,7 @@
   <tr>
     <td colspan=12 align="justify">
       <p>
-        I work as a Software Engineer Intern at <a href="https://agro.elzian.com/">Elzian Agro (Pvt) Ltd.</a>
-      </p>
-      <p>
-      I'm a creative thinker, well-organized, and self-motivated. I quickly learn new tools and adapt to emerging technologies, boasting experience in both web and software development. I love using my programming and electronics knowledge to solve real-world problems with an innovative approach.
-      </p>
-      <p>
-        I have completed my BSc degree in Physical Science (awaiting results) at the University of Kelaniya, with subjects including Computer Studies, Electronics, and Physics. Additionally, I have successfully completed the Full Stack Developer Program and Microcontroller-based system design course offered by the University of Moratuwa.
+        I am a creative and well-organized individual with a strong passion for coding and technology. I have a background in both electronics and programming. Currently, I am serving as a Software Engineer Intern, gaining hands-on experience in the MERN stack. Additionally, I am acquiring proficiency in AWS, Git, GitHub, and other key areas. I am committed to continuous learning, staying updated on industry trends, and am always eager to apply my skills to solve real-world problems around me.
       </p>
       <p>
         All of my projects are available at <a href="https://tkdeshan.github.io/my_portfolio/">https://tkdeshan.github.io/my_portfolio/</a>
