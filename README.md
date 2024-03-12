@@ -14,10 +14,10 @@
   <tr>
     <td colspan=12 align="justify">
       <p>
-        I am a creative and well-organized individual with a strong passion for coding and technology. I have a background in both electronics and programming. Currently, I am serving as a Software Engineer Intern, gaining hands-on experience in the MERN stack. Additionally, I am acquiring proficiency in AWS, Git, GitHub, and other key areas. I am committed to continuous learning, staying updated on industry trends, and am always eager to apply my skills to solve real-world problems around me.
+       I am a creative and well-organized individual with a strong passion for coding and technology, possessing backgrounds in both electronics and programming. Currently, I am serving as a Software Engineer Intern, gaining hands-on experience in the MERN stack. Additionally, I am acquiring proficiency in AWS, Git, GitHub, and other key areas. I am committed to continuous learning, staying updated on industry trends, and am always eager to apply my skills to solve real-world problems.
       </p>
       <p>
-        All of my projects are available at <a href="https://tkdeshan.github.io/my_portfolio/">https://tkdeshan.github.io/my_portfolio/</a>
+        View my portfolio website <a href="https://tkdeshan.github.io/my_portfolio/">click</a>
       </p>
       <p>
         Reach me at <a href="mailto:tkdeshan1103@gmail.com">tkdeshan1103@gmail.com</a>
@@ -39,7 +39,6 @@
       <h3>Frameworks</h3>
       <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/react.svg" height="40px">        
       <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/nodejs.svg" height="40px"> <br>
-      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/bootstrap.svg" height="40px">
     </td>
     <td colspan=3 align="center">
       <h3>Database</h3>
@@ -50,7 +49,6 @@
       <h3>Tools</h3>
       <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/git.svg" height="40px"> 
       <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/github.svg" height="40px"> 
-      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/npm.svg" height="20px"> <br>
       <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/aws.png" height="30px"> 
     </td>
   </tr>
