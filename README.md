@@ -2,7 +2,7 @@
   <tr>
     <td colspan=12 align="center">
       <h1> Kavinda Deshan </h1>
-      <h3> Software Engineer Intern | MERN Stack | AWS | Tech Enthusiastic </h3>
+      <h3> Software Engineer Intern | Tech Enthusiastic </h3>
       <p>
         <a href="https://linkedin.com/in/kavinda-deshan-265304214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavinda-deshan-265304214" height="30" width="40" /></a>
         <a href="https://fb.com/kavinda.deshan.334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavinda.deshan.334" height="30" width="40" /></a>
