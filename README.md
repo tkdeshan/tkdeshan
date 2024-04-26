@@ -14,7 +14,7 @@
   <tr>
     <td colspan=12 align="justify">
       <p>
-       I am a creative and well-organized individual with a strong passion for technology, possessing backgrounds in both electronics and programming. Recently, I completed an internship as a Software Engineer, where I gained hands-on experience in the MERN stack. Additionally, I have acquired proficiency in AWS, Git, GitHub, and other key areas. I am committed to continuous learning, staying updated on industry trends, and am always eager to apply my skills to solve real-world problems.
+      I am a creative and well-organized individual with a strong passion for technology, possessing backgrounds in both electronics and programming. I gained hands-on experience in the MERN stack, AWS, Git, GitHub, and other key areas during my software engineer internship. I am committed to continuous learning, staying updated on industry trends, and am always eager to apply my skills to solve real-world problems.
       </p>
       <p>
         View my portfolio website <a href="https://tkdeshan.github.io/my_portfolio/">click</a>
