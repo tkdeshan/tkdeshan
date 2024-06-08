@@ -13,9 +13,9 @@
   <tr>
     <td colspan=12 align="justify">
       <p>
-     I am a software engineer with a strong foundation in full-stack web development, specializing in the MERN stack. I excel as a problem solver and possess a creative, innovative mindset.
+    I am a software engineer with a strong foundation in full-stack development. I excel as a problem solver and possess a creative, innovative mindset.
 
-My journey began with a Bachelor's degree in Physical Science (Computer Studies, Electronics, and Physics), and I have successfully completed courses in full-stack development and microcontroller-based system design. With a blend of expertise in software and hardware development, I thrive on merging electronics and programming to drive innovation. 
+My journey began with a Bachelor's degree in Physical Science (Computer Studies, Electronics, and Physics), and I have successfully completed courses in full-stack development and microcontroller-based system design offered by the University of Moratuwa. With a blend of expertise in software and hardware development, I thrive on merging electronics and programming to drive innovation.
 
 Throughout my journey, I've gained hands-on experience in web and software development, embedded systems, and IoT technologies, through personal, academic, and professional projects.
 
