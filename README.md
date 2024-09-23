@@ -4,7 +4,7 @@
       <h1> Kavinda Deshan </h1>
       <h3> Software Engineer | Innovator | Tech Enthusiast </h3>
       <p>
-        <a href="https://linkedin.com/in/kavinda-deshan-265304214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavinda-deshan-265304214" height="30" width="40" /></a>
+        <a href="https://linkedin.com/in/kavinda-deshan-thennakoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavinda-deshan-265304214" height="30" width="40" /></a>
         <a href="https://medium.com/@tkdeshan1103" target="blank"><img align="center" src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/medium.png" alt="medium" height="30" width="40"/></a>
       </p>
     </td>
@@ -13,18 +13,16 @@
   <tr>
     <td colspan=12 align="justify">
       <p>
-    I am a software engineer with a strong foundation in full-stack development. I excel as a problem solver and possess a creative, innovative mindset.
+   I am a software engineer with experience in embedded systems, IoT application development, and full-stack web development. I am passionate about building innovative, scalable solutions across both software and hardware platforms, combining my expertise to solve complex technical challenges.
+        
+My journey began with a Bachelor's degree in Physical Sciences (Computer Studies, Electronics, and Physics), and I have successfully completed courses in full-stack development and microcontroller-based system design offered by the University of Moratuwa. With a blend of skills in software and hardware development, I thrive on integrating electronics and programming to drive innovation.
 
-My journey began with a Bachelor's degree in Physical Science (Computer Studies, Electronics, and Physics), and I have successfully completed courses in full-stack development and microcontroller-based system design offered by the University of Moratuwa. With a blend of expertise in software and hardware development, I thrive on merging electronics and programming to drive innovation.
-
-Throughout my journey, I've gained hands-on experience in web and software development, embedded systems, and IoT technologies, through personal, academic, and professional projects.
-
-I'm passionate about leveraging technology to address real-world challenges, and I'm committed to continuous learning to stay ahead in this dynamic field. I'm always eager to apply my skills and make a meaningful impact.
+I am passionate about leveraging technology to address real-world challenges and am committed to continuous learning to stay ahead in this dynamic field. I am always eager to apply my skills and make a meaningful impact.
 
 Let's connect and explore the boundless opportunities where technology and creativity intersect!
       </p>
       <p>
-        View my portfolio website <a href="https://tkdeshan.github.io/my_portfolio/">click</a>
+        View my portfolio website <a href="https://tkdeshan.github.io/portfolio/">click</a>
       </p>
       <p>
         Reach me at <a href="mailto:tkdeshan1103@gmail.com">tkdeshan1103@gmail.com</a>
