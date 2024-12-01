@@ -13,9 +13,9 @@
   <tr>
     <td colspan=12 align="justify">
       <p>
-   I am a software engineer with experience in embedded systems, IoT application development, and full-stack web development. I am passionate about building innovative, scalable solutions across both software and hardware platforms, combining my expertise to solve complex technical challenges.
+   I am a software engineer with experience in embedded systems, IoT application development, and full-stack development. I am passionate about building innovative, scalable solutions across both software and hardware platforms, combining my expertise to solve complex technical challenges.
         
-My journey began with a Bachelor's degree in Physical Sciences (Computer Studies, Electronics, and Physics), and I have successfully completed courses in full-stack development and microcontroller-based system design offered by the University of Moratuwa. With a blend of skills in software and hardware development, I thrive on integrating electronics and programming to drive innovation.
+My journey began with a Bachelor's degree in Physical Science (Computer Studies, Electronics, and Physics), and I have successfully completed courses in microcontroller-based system design and full-stack development offered by the University of Moratuwa. With a blend of skills in software and hardware development, I thrive on integrating electronics and programming to drive innovation.
 
 I am passionate about leveraging technology to address real-world challenges and am committed to continuous learning to stay ahead in this dynamic field. I am always eager to apply my skills and make a meaningful impact.
 
@@ -25,7 +25,7 @@ Let's connect and explore the boundless opportunities where technology and creat
         View my portfolio website <a href="https://tkdeshan.github.io/portfolio/">click</a>
       </p>
       <p>
-        Reach me at <a href="mailto:tkdeshan1103@gmail.com">tkdeshan1103@gmail.com</a>
+        Reach me at <a href="mailto:tkdeshan1103@gmail.com">tkdeshan1103@gmail.com</a> | <a href="#">076 90 11 856</a>
       </p>
     </td>
   </tr>
