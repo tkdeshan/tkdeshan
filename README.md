@@ -13,13 +13,13 @@
   <tr>
     <td colspan=12 align="justify">
       <p>
-   I am a software engineer with experience in embedded systems, IoT application development, and full-stack development. I am passionate about building innovative, scalable solutions across both software and hardware platforms, combining my expertise to solve complex technical challenges.
+   I am currently a software engineer specializing in firmware and full-stack development, with a strong passion for creating innovative and impactful solutions.
         
-My journey began with a Bachelor's degree in Physical Science (Computer Studies, Electronics, and Physics), and I have successfully completed courses in microcontroller-based system design and full-stack development offered by the University of Moratuwa. With a blend of skills in software and hardware development, I thrive on integrating electronics and programming to drive innovation.
+My journey began with a Bachelor's degree in Physical Science (Computer Studies, Electronics, and Physics). Along the way, I completed specialized courses in microcontroller-based system design and full-stack development at the University of Moratuwa. This academic foundation, combined with hands-on experience, has allowed me to seamlessly integrate programming and electronics, enabling me to tackle complex technical challenges.
 
-I am passionate about leveraging technology to address real-world challenges and am committed to continuous learning to stay ahead in this dynamic field. I am always eager to apply my skills and make a meaningful impact.
+As a problem solver, I am driven by a passion for developing smart, intelligent solutions that address real-world challenges. I focus on leveraging the power of both software and hardware to create efficient systems that not only meet business needs but also drive innovation. By combining creativity with technology, I strive to deliver solutions that empower businesses and individuals, and create lasting value.
 
-Let's connect and explore the boundless opportunities where technology and creativity intersect!
+Let’s connect and explore the endless possibilities where technology and creativity intersect to shape the future!
       </p>
       <p>
         View my portfolio website <a href="https://tkdeshan.github.io/portfolio/">click</a>
