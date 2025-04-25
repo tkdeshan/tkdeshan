@@ -13,13 +13,13 @@
   <tr>
     <td colspan=12 align="justify">
       <p>
-   I am currently a software engineer specializing in firmware and full-stack development, with a strong passion for creating innovative and impactful solutions.
+  I currently work as a Software Engineer, focusing on embedded firmware and full-stack web development. My work involves creating smart, real-world products that address practical challenges and deliver meaningful value.
         
-My journey began with a Bachelor's degree in Physical Science (Computer Studies, Electronics, and Physics). Along the way, I completed specialized courses in microcontroller-based system design and full-stack development at the University of Moratuwa. This academic foundation, combined with hands-on experience, has allowed me to seamlessly integrate programming and electronics, enabling me to tackle complex technical challenges.
+My journey began with a Bachelor's degree in Physical Science (Computer Studies, Electronics, and Physics), which was further enriched through specialized training in microcontroller-based system design and full-stack development at the University of Moratuwa. This foundation empowers me to connect the dots between software and hardware, enabling the creation of robust, scalable, and smart solutions.
 
-As a problem solver, I am driven by a passion for developing smart, intelligent solutions that address real-world challenges. I focus on leveraging the power of both software and hardware to create efficient systems that not only meet business needs but also drive innovation. By combining creativity with technology, I strive to deliver solutions that empower businesses and individuals, and create lasting value.
+I enjoy my current work in software development, and I’m also focused on growing my skills in product design due to my strong passion for innovative product development. I’m driven by the challenge of turning creative ideas into real, usable products. Whether it’s a connected IoT device, a web-based control system, or a fully integrated embedded solution, I aim to build products that solve real-world problems.
 
-Let’s connect and explore the endless possibilities where technology and creativity intersect to shape the future!
+I'm continuously exploring new tools, emerging technologies, and cross-disciplinary ideas to stay ahead of the curve. Through ongoing research and development, my goal is to craft solutions that bridge innovation and practicality-solutions that serve users, businesses, and communities alike.
       </p>
       <p>
         View my portfolio website <a href="https://tkdeshan.github.io/portfolio/">click</a>
